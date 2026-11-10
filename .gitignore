@@ -1,0 +1,9 @@
+# Compiled executables
+task1_bst_range_query/task1_bst_range_query
+task2_word_frequency/task2_word_frequency
+task3_galaxy/task3_galaxy
+
+# Other compiled files
+*.o
+*.out
+*.exe
